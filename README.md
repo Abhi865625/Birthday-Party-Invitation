@@ -1,3 +1,4 @@
 # Birthday-Party-Invitation
 # Output
-# <img width="760" alt="goal" src="https://github.com/Abhi865625/Birthday-Party-Invitation/assets/93569162/45f8996f-b8e4-4f95-b9ae-833823c152b4">
+# ![image](https://github.com/Abhi865625/Birthday-Party-Invitation/assets/93569162/10995a37-88eb-429f-9534-60981d4b6f02)
+
